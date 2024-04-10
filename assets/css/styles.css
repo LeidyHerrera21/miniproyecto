@@ -939,8 +939,9 @@ html {
 
 #recibo {
     width: 300px;
-    margin: 0 auto;
+    margin: 7px auto;
     padding: 20px;
+	background-color: #ff69b4;
     border: 1px solid #000;
     font-family: Arial, sans-serif;
 }
@@ -971,6 +972,8 @@ html {
 
 #agregarItem {
     margin-top: 10px;
+	border-radius: 5px;
+	border: none;
 }
 
 
